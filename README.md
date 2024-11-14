@@ -46,10 +46,14 @@ This project is a simple weather and clock display built with an ESP32 and a 2.8
    - NTPClient (already included with ESP32 board setup)
 
 3. **Update WiFi credentials and OpenWeatherMap API key in the code:**
+![image](https://github.com/user-attachments/assets/0c066be9-f092-41dc-a551-7327161e80b0)
 
    ```cpp
-   const char* ssid = "YOUR_SSID";
-   const char* password = "YOUR_PASSWORD";
-   const String apiKey = "YOUR_API_KEY";
-   ![image](https://github.com/user-attachments/assets/e5f8fad5-319e-42d3-934e-59f4172b3467)
+  ssid = "YOUR_SSID";
+  password = "YOUR_PASSWORD";
+  apiKey = "YOUR_API_KEY";
+
+
+  
+   
 
