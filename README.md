@@ -10,6 +10,9 @@ This project is a simple weather and clock display built with an ESP32 and a 2.8
 - Auto-updates time and weather at specified intervals.
 ![IMG_3883](https://github.com/user-attachments/assets/0d7ff5a7-62cc-4668-b9e7-a589988d2dee)
 
+https://github.com/user-attachments/assets/161a7464-dd6c-4200-98d6-f24ae300610d
+
+
 ## Components
 
 - **ESP32 Development Board**
