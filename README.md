@@ -1,6 +1,6 @@
 # ESP32 Weather Clock with ILI9341 Display
 
-This project is a simple weather and clock display built with an ESP32 and a 2.8" ILI9341 TFT display. It connects to WiFi to retrieve the current time via an NTP (Network Time Protocol) server and fetches weather information from OpenWeatherMap. The time and weather are displayed on the TFT screen.
+This project is the V2 of a weather and clock display built with an ESP32 and a 2.8" ILI9341 TFT display. It connects to WiFi to retrieve the current time via an NTP (Network Time Protocol) server and fetches weather information from OpenWeatherMap. The time and weather are displayed on the TFT screen but now with more info, Images are to be added in the next update along with homeassistant support to make it work with Apple homekit, Google Home and Alexa
 
 ## Features
 
@@ -8,6 +8,7 @@ This project is a simple weather and clock display built with an ESP32 and a 2.8
 - Shows the current weather and temperature using data from OpenWeatherMap.
 - Customizable UTC offset for accurate local time display.
 - Auto-updates time and weather at specified intervals.
+- ESP Connect Support
 ![IMG_3883](https://github.com/user-attachments/assets/0d7ff5a7-62cc-4668-b9e7-a589988d2dee)
 
 https://github.com/user-attachments/assets/161a7464-dd6c-4200-98d6-f24ae300610d
