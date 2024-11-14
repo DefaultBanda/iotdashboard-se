@@ -51,3 +51,5 @@ This project is a simple weather and clock display built with an ESP32 and a 2.8
    const char* ssid = "YOUR_SSID";
    const char* password = "YOUR_PASSWORD";
    const String apiKey = "YOUR_API_KEY";
+   ![image](https://github.com/user-attachments/assets/e5f8fad5-319e-42d3-934e-59f4172b3467)
+
